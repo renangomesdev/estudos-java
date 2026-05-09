@@ -1,4 +1,4 @@
-package logica_programacao;
+package logica_programacao.mini_programas;
 
 import java.util.Scanner;
 
