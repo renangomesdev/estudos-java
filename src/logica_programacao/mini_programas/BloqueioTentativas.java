@@ -24,6 +24,8 @@ public class BloqueioTentativas {
             }
         }
 
+
+
         sc.close();
     }
 }
